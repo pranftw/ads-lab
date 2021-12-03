@@ -1,6 +1,6 @@
 # ads-lab
 
-`medll.c` - XOR Linked List
-`skipll.c` - Skip List
-`disjset.c` - Disjoint Set (Island Counter)
-`avl.c` - AVL Tree
+`medll.c` - XOR Linked List<br>
+`skipll.c` - Skip List<br>
+`disjset.c` - Disjoint Set (Island Counter)<br>
+`avl.c` - AVL Tree<br>
