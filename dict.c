@@ -115,9 +115,9 @@ int main(){
     *table = insert(3,"World",table,table_len);
     *table = insert(5,"Boo",table,table_len); // These two
     *table = insert(6,"Cno",table,table_len); // are to check collisions
-    // print_ll(table, table_len);
+    print_ll(table, table_len);
     *table = delete("Foo",table_len,table);
-    // print_ll(table, table_len);
+    print_ll(table, table_len);
     int d = get_data("Roo",table_len,table);
     if(d==NULL){
         printf("NULL\n");
